@@ -14,7 +14,8 @@ Chicago is made up of 77 community areas that are often grouped into 9 districts
 
 From this report, a reader will be able to answer the following questions:
 
-Have the overall speeding violations increased or decreased year over year?
-How does the speeding violation volume depend on the season?
-Which wards, addresses, and community areas have the most violations?
+1. Have the overall speeding violations increased or decreased year over year?
+2. How does the speeding violation volume depend on the season?
+3. Which wards, addresses, and community areas have the most violations?
+
 Additionally, the report will show areas for future further analysis.
